@@ -2,17 +2,17 @@
 
 To run you will need the following python packages:
 
-*numpy (can be installed with anaconda)
-*pandas (can be installed with anaconda)
-*keras (can be installed with anaconda)
-*scikit-learn (can be installed with anaconda)
-*opencv (can be installed with anaconda)
-*tensorflow-gpu VERSION 1.15 (can be installed with anaconda) (version is important)
+* numpy (can be installed with anaconda)
+* pandas (can be installed with anaconda)
+* keras (can be installed with anaconda)
+* scikit-learn (can be installed with anaconda)
+* opencv (can be installed with anaconda)
+* tensorflow-gpu VERSION 1.15 (can be installed with anaconda) (version is important)
 (tensorflow should work instead of tensorflow-gpu so that you can run it on your cpu, although I
 have not tested it)
-*tensorflow-probability (can be installed with anaconda)
-*matplotlib (can be installed with anaconda)
-*albumentations (can be installed with pip)
+* tensorflow-probability (can be installed with anaconda)
+* matplotlib (can be installed with anaconda)
+* albumentations (can be installed with pip)
 
 
 I recommend running the demo first. For the most part, it simply tests the performance of 
