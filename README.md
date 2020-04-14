@@ -27,3 +27,9 @@ datasets to a form useful for semi-supervised learning. Running them could break
 
 Both the raw python scripts and a jupyter notebook are available for each of the scripts. Use whichever you prefer. They do the exact same thing. They were written in a notebook so that
 is what I would recommend running them with.
+
+<object data="https://github.com/JudahZammit/m2-vae-for-ssss/blob/master/A%20Fully%20Convolutional%20M2%20Variational%20Autoencoder%20for%20Semi-Supervised%20Semantion%20Segmentation.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://yoursite.com/the.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/JudahZammit/m2-vae-for-ssss/blob/master/A%20Fully%20Convolutional%20M2%20Variational%20Autoencoder%20for%20Semi-Supervised%20Semantion%20Segmentation.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
