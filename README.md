@@ -27,8 +27,3 @@ datasets to a form useful for semi-supervised learning. Running them could break
 
 Both the raw python scripts and a jupyter notebook are available for each of the scripts. Use whichever you prefer. They do the exact same thing. They were written in a notebook so that
 is what I would recommend running them with.
-
-
-
-NEW:
-As we spoke about, it is probably better if you don't run my programs. Due to its size I have not included the "Pascal VOC" dataset. Because of this, you will not be able to run any of the Pascal_VOC models or the demo. You could still run any of the MNIST models if you would like
